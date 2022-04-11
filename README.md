@@ -1,4 +1,4 @@
-<a href="slack-clone01.netlify.app">Demo</a>
+<a href="https://slack-clone01.netlify.app/">Demo</a>
 
 ## About The Project
 <p align="center">
